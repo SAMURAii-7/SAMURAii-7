@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Prasad</h1>
 <h3 align="center">A Software Engineer from India</h3>
-<img align="right" alt="gif" width="400" src="https://tenor.com/vz3n.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuraii-7&label=Profile%20views&color=0e75b6&style=flat" alt="samuraii-7" /> </p>
 
