@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Web Development, C/C++, Java, Python**
 
-- 📫 How to reach me **shubhamprasad2107@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-prasad-7b486b185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham prasad" height="30" width="40" /></a>
