@@ -56,7 +56,7 @@ C/C++, Java, Python**
     <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-            src="https://commons.wikimedia.org/wiki/File:Expressjs.png"
+            src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
             alt="express"
             width="40"
             height="40"
@@ -71,20 +71,20 @@ C/C++, Java, Python**
             height="40"
         />
     </a>
-    <!-- nodejs -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
     <!-- sass -->
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
             alt="sass"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- nodejs -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs"
             width="40"
             height="40"
         />
@@ -138,24 +138,6 @@ C/C++, Java, Python**
             height="40"
         />
     </a>
-    <!-- mongodb -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb"
-            width="40"
-            height="40"
-        />
-    </a>
-    <!-- mysql -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-        />
-    </a>
     <!-- html  -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
@@ -170,6 +152,24 @@ C/C++, Java, Python**
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- mongodb -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- mysql -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql"
             width="40"
             height="40"
         />
