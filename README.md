@@ -16,8 +16,8 @@
     /></a>
 </p>
 
-- 🌱 I’m currently learning **Next.js** - 💬 Ask me about **Web Development,
-C/C++, Java, Python**
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ask me about **Web Development, C/C++, Java, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
