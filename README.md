@@ -1,4 +1,4 @@
-<h1 style={color: #fff} align="center">Hi 👋, I'm Shubham Prasad</h1>
+<h1 align="center">Hi 👋, I'm Shubham Prasad</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
 <p align="left">
