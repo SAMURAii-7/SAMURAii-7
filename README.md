@@ -31,11 +31,11 @@
             height="30"
             width="40"
     /></a>
-    <a href="https://instagram.com/shubham.prasad.7" target="blank"
+    <a href="https://twitter.com/SAMURAii_7" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="shubham.prasad.7"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="shubham-prasad-twitter"
             height="30"
             width="40"
     /></a>
