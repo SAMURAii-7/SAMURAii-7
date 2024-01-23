@@ -16,7 +16,7 @@
     /></a>
 </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** & **Go**
 - 💬 Ask me about **Web Development, Java, Python**
 
 <h3 align="left">Connect with me:</h3>
