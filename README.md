@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a
-        href="https://www.linkedin.com/in/shubham-prasad-7b486b185/"
+        href="https://www.linkedin.com/in/shubhamprasad7/"
         target="blank"
         ><img
             align="center"
