@@ -16,8 +16,8 @@
     /></a>
 </p>
 
-- 🌱 I’m currently learning **Spring Boot** & **Go**
-- 💬 Ask me about **Web Development, Java, Python**
+- 🌱 I’m currently learning **Go**
+- 💬 Ask me about **Java, Spring Boot, React, Microservices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -198,6 +198,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuraii-7&show_icons=true&locale=en" alt="samuraii-7" /></p> -->
 
+<!--
 <p>
     <img
         align="center"
@@ -205,3 +206,4 @@
         alt="samuraii-7"
     />
 </p>
+-->
